@@ -64,7 +64,7 @@ if (temp >= 80) {
 } else if (temp >=65) {
     console.log('This is t=shirt for most folks.')
 } else if (temp >=50) {
-    console.log("you're going to need a sweater.')
+    console.log("you're going to need a sweater.")
 } else {
     console.log('I am not leaving my house and you cannot make me.')
     
@@ -102,7 +102,7 @@ switch (favColor) {
 
 let doYouLikePizza = 'yes';
 
-switch (doYouLikePizza):
+switch (doYouLikePizza){
 case 'yes':
 case 'yea':
 case 'duh':
@@ -110,7 +110,7 @@ case 'duh':
     break;
     case 'no':
     case 'nope':
-        case 'nah':
+    case 'nah':
             console.log('Ohh... I will order something else for dinner');
             break;
             default:
