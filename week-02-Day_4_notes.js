@@ -54,15 +54,15 @@ exampleFunction();
 // block of code designed to perform a particular task
 // TBD
 
-let addNums(x, y) {
+let addNums('x, y'); {
     let result = x + y;
     return result
 }
 
 function addNums(x, y) {
-    let result =function
+    let result = ('function')
 }
 
-let mystuff = addNums(5,6)  // let mystuff = 11 <<-- inside memory location
+let myStuff = addNums(5,6)  // let myStuff = 11 <<-- inside memory location
 
-console.log(mystuff)
+console.log(myStuff)
