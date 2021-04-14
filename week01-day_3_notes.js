@@ -7,14 +7,14 @@ console.log('This will print like a string but our symbols need help can "quote"
 
 // IF STATEMENTS
 // Checks for a boolean value, if something is true it is truthy( a true statement), or falsy
-// Truthy = if conditon is or can be true
-// Falsy - if condtion is false or can be false
+// Truthy = if condition is or can be true
+// Falsy - if condition is false or can be false
 // Some falsy expressions are: null, NaN(not a number), 0, an empty string (" "), and undefined
 
-// IF a cindtion is true, then JS will execute(perform) the code block
-// if checks one, singular, condtiion
+// IF a condition is true, then JS will execute(perform) the code block
+// if checks one, singular, condition
 
-// Declare a varible
+// Declare a variable
 let isOpen = true;
 
 //The condition to check is held in our ( )

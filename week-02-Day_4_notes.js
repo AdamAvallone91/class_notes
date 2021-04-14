@@ -54,7 +54,7 @@ exampleFunction();
 // block of code designed to perform a particular task
 // TBD
 
-let addNums('x, y'); {
+let addNums ('x, y'); {
     let result = x + y;
     return result
 }
